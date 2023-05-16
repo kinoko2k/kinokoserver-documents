@@ -4,32 +4,38 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '簡単に入れる！',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        めんどくさい認証や参加申請などいらない！
+        勝手に参加できるし退出もできる！自由や！！
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '楽しく雑談できます！',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
+      <>
+        昼はたくさん人が遊びに来ます！サバイバルしながらチャットをして楽しく話しましょう！
+        <code>ルール</code>に違反しない範囲なら何でもOK。サバイバルより雑談してる人の方が多いかも？
+      </>
+      /*
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
         ahead and move your docs into the <code>docs</code> directory.
       </>
+      */
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'サポートが速い！',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        最短30秒、最長3日に返信が返ってきます！
+        困ったことがあれば、チャットで助けを求めるとほかのプレイヤーが助けてくれます！
       </>
     ),
   },
