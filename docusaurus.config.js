@@ -84,13 +84,6 @@ const config = {
             label: '運営向け記事',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
             href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
             position: 'right',
