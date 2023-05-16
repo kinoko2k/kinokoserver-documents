@@ -73,13 +73,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'startup/welcome',
+            docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
             label: '初めての方へ',
           },
           {
             type: 'doc',
-            docId: 'admin/overview',
+            docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
             label: '運営向け記事',
           },
@@ -105,11 +105,11 @@ const config = {
             items: [
               {
                 label: '初めての方へ',
-                to: '/docs/startup/welcome',
+                to: '/docs/tutorial-basics/create-a-blog-post',
               },
               {
                 label: '運営向け記事',
-                to: '/docs/admin/overview'
+                to: '/docs/tutorial-basics/create-a-blog-post'
               }
             ],
           },
