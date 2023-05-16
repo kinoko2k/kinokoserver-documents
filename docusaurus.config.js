@@ -65,12 +65,24 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'KinokoServer',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'KinokoServer Logo',
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'doc',
+            docId: 'startup/welcome',
+            position: 'left',
+            label: '初めての方へ',
+          },
+          {
+            type: 'doc',
+            docId: 'admin/overview',
+            position: 'left',
+            label: '運営向け記事',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -79,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +105,7 @@ const config = {
             items: [
               {
                 label: '初めての方へ',
-                to: '/docs/starup/welcome',
+                to: '/docs/startup/welcome',
               },
               {
                 label: '運営向け記事',
