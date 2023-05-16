@@ -89,46 +89,46 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '記事',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '初めての方へ',
+                to: '/docs/starup/welcome',
               },
+              {
+                label: '運営向け記事',
+                to: '/docs/admin/overview'
+              }
             ],
           },
           {
-            title: 'Community',
+            title: 'コミュニティ',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'KinokoServer公式Wiki',
+                href: 'https://seesaawiki.jp/kinokonetwork/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/Qs6q3mhz2S',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/kinoko_network',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'その他',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KinokoServer/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KinokoServer, Group. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
