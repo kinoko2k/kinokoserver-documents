@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'KinokoServer Wiki',
-  tagline: 'kinoko',
+  tagline: 'Minecraft Java & BE Server - 楽しく雑談できるサバイバルサーバー！',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
