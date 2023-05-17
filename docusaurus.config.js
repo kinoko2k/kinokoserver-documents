@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/2022-10-22_15.01.43.jpg',
       navbar: {
         title: 'KinokoServer',
         logo: {
