@@ -73,7 +73,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'tutorial-basics/create-a-blog-post',
+            docId: 'intro',
             position: 'left',
             label: '初めての方へ',
           },
