@@ -93,6 +93,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          /*
           {
             title: '記事',
             items: [
@@ -106,6 +107,7 @@ const config = {
               }
             ],
           },
+          */
           {
             title: 'コミュニティ',
             items: [
