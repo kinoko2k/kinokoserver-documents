@@ -1,4 +1,5 @@
 ---
+sidebar_label: 運営向け記事
 sidebar_position: 1
 ---
 
