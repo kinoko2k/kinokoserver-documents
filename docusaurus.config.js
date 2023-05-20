@@ -78,12 +78,6 @@ const config = {
             label: '初めての方へ',
           },
           {
-            type: 'doc',
-            docId: 'server/intro',
-            position: 'left',
-            label: '運営向け記事',
-          },
-          {
             href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
             position: 'right',
