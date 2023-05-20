@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: '初めての方へ',
-                to: '/docs/intro',
+                to: '/docs/server/intro',
               },
               {
                 label: '運営向け記事',
