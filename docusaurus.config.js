@@ -81,7 +81,7 @@ const config = {
             type: 'doc',
             docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
-            label: '運営向け記事',
+            label: '運営向け記',
           },
           {
             href: 'https://github.com/KinokoServer/docusaurus',
