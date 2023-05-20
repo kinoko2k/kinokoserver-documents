@@ -71,12 +71,14 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          /*
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: '初めての方へ',
           },
+          */
           {
             href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
