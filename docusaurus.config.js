@@ -71,14 +71,18 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          /*
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: '初めての方へ',
           },
-          */
+          {
+            type: 'doc',
+            docId: 'tutorial-basics/create-a-blog-post',
+            position: 'left',
+            label: '運営向け記事',
+          },
           {
             href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
@@ -89,21 +93,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          /*
           {
             title: '記事',
             items: [
               {
                 label: '初めての方へ',
-                to: 'server/intro',
+                to: '/docs/tutorial-basics/create-a-blog-post',
               },
               {
                 label: '運営向け記事',
-                to: 'server/intro'
+                to: '/docs/tutorial-basics/create-a-blog-post'
               }
             ],
           },
-          */
           {
             title: 'コミュニティ',
             items: [
