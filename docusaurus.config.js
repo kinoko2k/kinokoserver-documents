@@ -73,13 +73,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'server/intro',
+            docId: 'intro',
             position: 'left',
             label: '初めての方へ',
           },
           {
             type: 'doc',
-            docId: 'admin/admin',
+            docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
             label: '運営向け記事',
           },
