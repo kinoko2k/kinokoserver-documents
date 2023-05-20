@@ -79,7 +79,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tutorial-basics/create-a-blog-post',
+            docId: 'server/intro',
             position: 'left',
             label: '運営向け記事',
           },
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: '運営向け記事',
-                to: '/docs/tutorial-basics/create-a-blog-post'
+                to: 'server/intro'
               }
             ],
           },
