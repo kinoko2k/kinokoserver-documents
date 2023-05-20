@@ -79,7 +79,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tutorial-basics/create-a-blog-post',
+            docId: 'admin/admin',
             position: 'left',
             label: '運営向け記事',
           },
