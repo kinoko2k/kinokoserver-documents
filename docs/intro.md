@@ -1,4 +1,5 @@
 ---
+sidebar_label: 初めての方へ
 sidebar_position: 1
 ---
 
