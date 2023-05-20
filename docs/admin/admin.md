@@ -1,5 +1,4 @@
 ---
-sidebar_label: ようこそ
 sidebar_position: 1
 ---
 
