@@ -70,7 +70,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'server/intro',
+            docId: 'server/join',
             position: 'left',
             label: '初めての方へ',
           },
