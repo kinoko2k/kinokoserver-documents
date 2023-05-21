@@ -99,11 +99,11 @@ const config = {
             items: [
               {
                 label: '初めての方へ',
-                to: '/docs/tutorial-basics/create-a-blog-post',
+                to: '/docs//server/tutorial-basics/create-a-blog-post',
               },
               {
                 label: '運営向け記事',
-                to: '/docs/tutorial-basics/create-a-blog-post'
+                to: '/docs/server/tutorial-basics/create-a-blog-post'
               }
             ],
           },
