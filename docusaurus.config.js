@@ -25,13 +25,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-    i18n: {
-      defaultLocale: 'en',
-      locales: ['en', 'ja'],
-    },
+  // 内部化を使用しない場合でも、このフィールドを使用して便利な設定を行うことができます。
+  // HTML言語のようなメタデータ。 たとえば、サイトが中国語の場合、次のようにすることができます。
+  // 「en」を「zh-Hans」に置き換えます。
   
   
   presets: [
