@@ -25,11 +25,14 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // 内部化を使用しない場合でも、このフィールドを使用して便利な設定を行うことができます。
-  // HTML言語のようなメタデータ。 たとえば、サイトが中国語の場合、次のようにすることができます。
-  // 「en」を「zh-Hans」に置き換えます。
-  
-  
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'ja',
+    locales: ['ja'],
+  },
+
   presets: [
     [
       'classic',
@@ -70,13 +73,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'server/join',
+            docId: 'intro',
             position: 'left',
             label: '初めての方へ',
           },
           {
             type: 'doc',
-            docId: 'admin/join',
+            docId: 'tutorial-basics/create-a-blog-post',
             position: 'left',
             label: '運営向け記',
           },
@@ -87,10 +90,6 @@ const config = {
           },
         ],
       },
-      tableOfContents: {
-        minHeadingLevel: 2,
-        maxHeadingLevel: 4,
-      },
       footer: {
         style: 'dark',
         links: [
@@ -99,11 +98,11 @@ const config = {
             items: [
               {
                 label: '初めての方へ',
-                to: '/docs/server/tutorial-basics/create-a-blog-post',
+                to: '/docs/tutorial-basics/create-a-blog-post',
               },
               {
                 label: '運営向け記事',
-                to: '/docs/server/tutorial-basics/create-a-blog-post'
+                to: '/docs/tutorial-basics/create-a-blog-post'
               }
             ],
           },
