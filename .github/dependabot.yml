@@ -6,12 +6,14 @@
 version: 2
 updates:
   - package-ecosystem: npm # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/docs/" # Location of package manifests
     schedule:
       interval: "daily"
       time: "09:00"
       timezone: "Asia/Tokyo"
-  open-pull-requests-limit: 30
-  target-branch: master
-  commit-message:
-    prefix: "npm_Update:"
+    commit-message:
+      prefix: "docs_npm_Update:"
+    allow:
+      - dependency-type: "direct"
+    open-pull-requests-limit: 30
+    target-branch: "master"
