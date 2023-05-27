@@ -28,7 +28,6 @@ $ npm start
 $ yarn build
 $ npm build
 ```
-
+<!--
 ### Deployment
-
-ホスティングに GitHub ページを使用している場合、このコマンドは Web サイトを構築して `gh-pages` ブランチにプッシュするのに便利な方法です。
+ホスティングに GitHub ページを使用している場合、このコマンドは Web サイトを構築して `gh-pages` ブランチにプッシュするのに便利な方法です。 -->
