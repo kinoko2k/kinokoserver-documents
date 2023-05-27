@@ -23,3 +23,34 @@ sidebar_position: 10
 | 09 | 11月29日 | BEwasabi7855 | Warn | Spam | Life |
 
 ### 2022年12月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 10 | 12月02日 | takeshin0708 | Warn | 窃盗行為 | Life |
+| 11 | 12月02日 | BEwasabi7855 | Warn | サーバーに関係ない宣伝行為 | Life |
+| 12 | 12月04日 | BESvelteCamp1469 | Warn | Spam | Life |
+| 13 | 12月08日 | BEwasabi7855 | Warn | Spam | Life |
+| 14 | 12月11日 | BEwasabi8955 | Warn | Spam | Life |
+| 15 | 12月11日 | hagenanndesu | Warn | 永続して動き続けるクロック回路の作成 | Life |
+| 16 | 12月12日 | BEwasabi7855 | Warn | LoginAttack | Life |
+| 17 | 12月12日 | BEwasabi7855 | TempIPBan-30min | LoginAttack | Life |
+| 18 | 12月17日 | BEwasabi7855 | Mute | Spam | Life |
+| 19 | 12月18日 | BEwasabi7855 | Warn | Spam | Minigame |
+| 20 | 12月19日 | BEwasabi7855 | TempIPBan-1day | サーバー運営の妨害行為 | Life |
+| 21 | 12月20日 | _343 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 22 | 12月20日 | BEwasabi7855 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 23 | 12月20日 | BEwasabi7855 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 24 | 12月20日 | _343 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 25 | 12月20日 | BEFeatTester2379 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 26 | 12月20日 | BEAverageToast23 | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 27 | 12月20日 | BEsashiminox | TempIPBan-3day | サーバー運営の妨害行為 | All |
+| 28 | 12月20日 | MesonicGarlic12 | Ban | 窃盗行為,Griefing | Life |
+| 29 | 12月21日 | _343 | Ban | 窃盗行為,Griefing | Life |
+| 30 | 12月23日 | BEwasabi8955 | Warn | Spam | Life |
+| 31 | 12月29日 | BEwasabi8955 | Warn | Spam | Life |
+| 32 | 12月29日 | BEwasabi8955 | TempIPBan-1day | 処罰回数による処罰 | Life |
+| 33 | 12月29日 | BEsalmonomlas | TempIPBan-1day | サーバーに対して負荷を与える行為 | Life |
+| 34 | 12月29日 | IPBanのため記載なし | TempIPBan-1day | サーバーに対して負荷を与える行為 | Life |
+| 35 | 12月30日 | totenoneko | Warn | Mobを過度に一か所に集める行為 | Life |
+| 36 | 12月30日 | BEwasabi8955を含むアカウントすべて | TempIPBan-1day | 複数のアカウントによるLoginAttack | Proxy |
+
+### 2023年1月の処罰者
