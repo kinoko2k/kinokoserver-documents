@@ -1,6 +1,6 @@
 ---
 sidebar_label: Modについて
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # 許可しているMOD
