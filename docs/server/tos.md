@@ -1,6 +1,6 @@
 ---
 sidebar_label: 利用規約
-sidebar_position: 3
+sidebar_position: 5
 ---
 きのこサーバー内ルール
 
