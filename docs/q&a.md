@@ -1,6 +1,6 @@
 ---
 sidebar_label: よくある質問
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 よくある質問とは、チャット内やお問い合わせで多かった質問について詳しく説明します。
