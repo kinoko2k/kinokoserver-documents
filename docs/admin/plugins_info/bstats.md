@@ -13,3 +13,7 @@ Pluginを配布しているSpigotMC.orgやGitHub等でPluginのコード閲覧�
 
 Pluginの使用状況以外にも、全体のサーバープレイヤー数、全体のサーバー数、バージョン等のグラフも公開している。 [bStats全体サーバー情報 (外部ページ)](https://bstats.org/global/bukkit)
 
+## 情報リスト
+- 名称 : 「bStats」
+- 公式サイト : https://bstats.org/
+
