@@ -1,6 +1,6 @@
 ---
 sidebar_label: サバイバルサーバー
-sidebar_position: 1
+sidebar_position: 2
 ---
 # サバイバルサーバー
 このサーバーは、あまりサバイバルの要素を崩さないようにしたサバイバルサーバーです。
@@ -9,7 +9,7 @@ sidebar_position: 1
 
 チャットはいつも盛んです。Discordとのチャット通信機能があり、Discordの特定のチャンネルからもサーバーにいるプレイヤーと話すことができます。
 
-## Lifeサーバー写真等
+## サバイバルサーバー写真等
 ![](img/life_pic_1.png)
 
 ![](img/life_pic_2.jpg)
