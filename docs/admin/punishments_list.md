@@ -86,7 +86,7 @@ sidebar_position: 10
 | 56 | 3月8日 | hyorolosloppy | Ban | Griefing | Life |
 | 57 | 3月8日 | sasimi_619 | Warn | 他人への暴言発言 | Life |
 | 58 | 3月8日 | sasimi_619 | Warn | 処罰者への暴言発言に値する行為 | Life |
-| 59 | 3月19日 | sasimi_619 | Warn | 他プレイヤーのプレイを暴威する行為 | Life |
+| 59 | 3月19日 | sasimi_619 | Warn | 他プレイヤーのプレイを妨害する行為 | Life |
 | 60 | 3月20日 | BEZAO920syun | Warn | 窃盗行為 | Life |
 | 61 | 3月23日 | SnowSniping | Ban | Griefing | Life |
 | 62 | 3月25日 | KKouki0817 | Warn | 当サーバーのサービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
@@ -97,3 +97,72 @@ sidebar_position: 10
 ### 2023年4月の処罰者
 | 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
 | - | - | - | - | - | - |
+| 66 | 4月3日 | soooouma | TempBan-3day | 窃盗行為 | Life |
+| 67 | 4月3日 | BEMasatoyodayo | TempBan-3day | Griefing | Life |
+| 68 | 4月3日 | mocih | TempBan-3day | Griefing | Life |
+| 69 | 4月4日 | KND7 | IPBan | チートクライアントの使用行為 | Life |
+| 70 | 4月4日 | KND2 | IPBan | チートクライアントの使用行為 | Life |
+| 71 | 4月4日 | soramame0817 | Ban | チートクライアントの使用行為 | Life |
+| 72 | 4月4日 | BakaxDUwU_MCPC | Ban | チートクライアントの使用行為 | Life |
+| 73 | 4月5日 | BEken_Pro156 | TempBan-3day | サーバー運営を妨害する行為 | Life |
+| 74 | 4月5日 | BEkaitoemma | TempBan-2day | 利用規約違反 | Life |
+| 75 | 4月5日 | Kaitoemma | TempBan-2day | 利用規約違反 | Life |
+| 76 | 4月6日 | sakuken777 | TempBan-3day | Griefing | Life |
+| 77 | 4月7日 | kasubian | Warn | Griefing | Life |
+| 78 | 4月7日 | BEStrangePencil6 | Warn | 他プレイヤーのプレイを妨害する行為 | Life |
+| 79 | 4月7日 | ryoryo6 | Ban | Griefing | Life |
+| 80 | 4月8日 | slump_tantorotin | Ban | チートクライアントの使用行為 | Life |
+| 81 | 4月15日 | kakaminn0513 | Warn | 新規プレイヤーに対し高価なアイテムを譲渡する行為 | Life |
+| 82 | 4月15日 | BEdadadadadaisei | Warn | 過度な乞食行為 | Life |
+| 83 | 4月16日 | AIUEOKAKI123 | TempBan-3day | Xrayの使用行為 | Life |
+| 84 | 4月16日 | JinJin0121 | TempBan-5day | Xrayの使用行為 | Life |
+| 85 | 4月16日 | premium1983 | Mute | 詐欺・脅迫行為 | Life |
+| 86 | 4月16日 | kakaminn0513 | TempBan-3day | Xrayの使用行為 | Life |
+| 87 | 4月17日 | KOO1014 | TempBan-1day | Xrayの使用行為 | Life |
+| 88 | 4月17日 | daitaka5614 | TempBan-7day | Xrayの使用行為 | Life |
+| 89 | 4月17日 | Shimondaa | TempBan-5day | Xrayの使用行為 | Life |
+| 90 | 4月17日 | premium1983 | TempBan-3day | サーバー運営を妨害する行為 | Life |
+| 91 | 4月18日 | ingot280 | Ban | チートクライアントの使用行為 | Life |
+| 92 | 4月19日 | KOO1014 | Ban | チートクライアントの使用行為 | Life |
+| 93 | 4月19日 | KOO1014 | IPBan | サーバー運営を妨害する行為 | Proxy |
+| 94 | 4月19日 | daitaka5614 | TempBan-7day | チートクライアントの使用行為 | Proxy |
+| 95 | 4月19日 | BEdaitaka0926 | TempBan-7day | チートクライアントの使用行為 | Proxy |
+| 96 | 4月19日 | daitaka5614 | TempBan-7day | チートクライアントの使用行為 | Life |
+| 97 | 4月19日 | hosi_yoru | Ban | チートクライアントの使用行為 | Life |
+| 98 | 4月22日 | BEom0ti_go | Ban | サーバー運営を妨害する行為 | Life |
+| 99 | 4月24日 | notoofy | IPBan | サーバー運営を妨害する行為 | Life |
+| 100 | 4月30日 | Antistarling473 | IPBan | チートクライアントの使用行為 | Life |
+
+### 2023年5月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 101 | 5月3日 | iampro14 | Ban | チートクライアントの使用行為 | Life |
+| 102 | 5月4日 | MxDiZire | Ban | チートクライアントの使用行為 | Life |
+| 103 | 5月4日 | daitaka5614 | TempIPBan-2month | サーバー運営を妨害する行為 | Proxy |
+| 104 | 5月5日 | Trent210 | Ban | チートクライアントの使用行為 | Life |
+| 105 | 5月5日 | Trent210 | Ban | チートクライアントの使用行為 | Proxy |
+| 106 | 5月5日 | Akkey0114 | Ban | チートクライアントの使用行為 | Proxy |
+| 107 | 5月5日 | Kysggggg | Ban | チートクライアントの使用行為 | Proxy |
+| 108 | 5月5日 | MrSmileyyyyy | Ban | チートクライアントの使用行為 | Proxy |
+| 109 | 5月5日 | Trent210 | IPBan | チートクライアントの使用行為 | Proxy |
+| 110 | 5月7日 | dakidak | IPBan | チートクライアントの使用行為 | Proxy |
+| 111 | 5月7日 | hinjyo | IPBan | Dos, Spam | Proxy |
+| 112 | 5月7日 | hinjyo | Ban | Dos, Spam | Lobby |
+| 113 | 5月7日 | BEStickingGraph2 | Ban | hinjyoと同IPのため | Life |
+| 114 | 5月7日 | an6nm | IPBan | Dos, Spam | Proxy |
+| 115 | 5月20日 | KKouki0817 | Mute | Spam | Minigame |
+| 116 | 5月20日 | KKouki0817 | Warn | Spam | Minigame |
+| 117 | 5月21日 | BEkimujobuu | Ban | Griefing | Life |
+| 118 | 5月21日 | BEkimujobuu | Ban | Griefing | Proxy |
+| 119 | 5月25日 | Tonkararin0721 | TempBan-3day | 他サーバーの宣伝行為 | Life |
+| 120 | 5月25日 | Tonkararin0721 | TempIP遮断-3day | LoginAttack | Server |
+| 121 | 5月27日 | na1t0tense1 | TempBan-3day | Xrayの使用行為 | Life |
+
+### 2023年6月の処罰者
+| 122 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
+| 123 | 6月1日 | Sylphid_Modder | Warn | プレイヤーへの暴言に値する行為 | Life |
+| 124 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
+| 125 | 6月4日 | BEkaitoEmma | Warn | クロック回路を作動させたまま放置する行為 | Life |
+
+
+
