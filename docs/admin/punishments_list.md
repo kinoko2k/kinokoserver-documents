@@ -54,3 +54,46 @@ sidebar_position: 10
 | 36 | 12月30日 | BEwasabi8955を含むアカウントすべて | TempIPBan-1day | 複数のアカウントによるLoginAttack | Proxy |
 
 ### 2023年1月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 37 | 1月4日 | BEPlusGaming2355 | Warn | 過度な他人の建築破壊 | Life |
+| 38 | 1月9日 | BEwasabi7855 | Warn | サーバーに負荷を与える行為 | Life |
+| 39 | 1月10日 | BEwasabi7855 | Warn | 他人への誹謗中傷 • 暴言 • 窃盗 • 脅迫 • 強要 • 過度な宣伝に違反する行為 | Life |
+| 40 | 1月11日 | BEwasabi7855を含むアカウント7個 | TempIPBan-7day | ログインを繰り返して鯖に負荷を与える行為 | Life |
+| 41 | 1月21日 | KAITOPROGRAMMING | Ban | Fly判定、Griefing | Life |
+| 42 | 1月28日 | BEDream_Daku | TempIPBan-2week | 他プレイヤーへのプレイ妨害行為、窃盗行為 | Life |
+| 43 | 1月29日 | KakatoKoizumi99 | Ban | cheat | Lobby |
+
+### 2023年2月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 44 | 2月1日 | BEMasatoyodayo | TempIPBan-3day | チート行為等を可能にする外部ツールを使用する行為 | Life |
+| 45 | 2月1日 | BEwasabi7855 | Warn | spam | Life |
+| 46 | 2月2日 | BEwasabi7855 | TempIPBan-3day | 処罰回避する行為 | Proxy |
+| 47 | 2月24日 | 2023_crafter | Ban | [Griefing (Twitterに飛びます)](https://twitter.com/kinoko1216/status/1629021939716206593) | Life |
+| 48 | 2月27日 | BEqwertyuiop6909 | Warn | theft | Life |
+| 49 | 2月28日 | tyatyaNN | Ban | Griefing | Life |
+
+### 2023年3月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 50 | 3月1日 | frosiky | Warn | クロック回路を作動させたまま放置する行為 | Life |
+| 51 | 3月3日 | BEMasatoyodayo | TempIPBan-1day | Griefing | Life |
+| 52 | 3月4日 | java_chiaki | Warn | 他プレイヤーのプレイを妨害する行為 | Life |
+| 53 | 3月6日 | BEMasatoyodayo | TempIPBan-3day | Griefing | Life |
+| 54 | 3月8日 | BEStrangePencil6 | Warn | プレイヤートラップを作成する行為 | Life |
+| 55 | 3月8日 | BEStrangePencil6 | Warn | Griefing | Life |
+| 56 | 3月8日 | hyorolosloppy | Ban | Griefing | Life |
+| 57 | 3月8日 | sasimi_619 | Warn | 他人への暴言発言 | Life |
+| 58 | 3月8日 | sasimi_619 | Warn | 処罰者への暴言発言に値する行為 | Life |
+| 59 | 3月19日 | sasimi_619 | Warn | 他プレイヤーのプレイを暴威する行為 | Life |
+| 60 | 3月20日 | BEZAO920syun | Warn | 窃盗行為 | Life |
+| 61 | 3月23日 | SnowSniping | Ban | Griefing | Life |
+| 62 | 3月25日 | KKouki0817 | Warn | 当サーバーのサービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
+| 63 | 3月25日 | chihaya2021 | Warn | 他プレイヤーへの誹謗中傷・暴言・脅迫に値する行為 | Life |
+| 64 | 3月25日 | ASAHI2986 | Warn | spam | Life |
+| 65 | 3月25日 | Tanatabunn2357 | TempBan-3day | 窃盗行為 | Life |
+
+### 2023年4月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
