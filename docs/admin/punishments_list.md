@@ -159,6 +159,8 @@ sidebar_position: 10
 | 121 | 5月27日 | na1t0tense1 | TempBan-3day | Xrayの使用行為 | Life |
 
 ### 2023年6月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
 | 122 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
 | 123 | 6月1日 | Sylphid_Modder | Warn | プレイヤーへの暴言に値する行為 | Life |
 | 124 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
