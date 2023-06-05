@@ -165,6 +165,6 @@ sidebar_position: 10
 | 123 | 6月1日 | Sylphid_Modder | Warn | プレイヤーへの暴言に値する行為 | Life |
 | 124 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
 | 125 | 6月4日 | BEkaitoEmma | Warn | クロック回路を作動させたまま放置する行為 | Life |
-
+| 126 | 6月5日 | Tockey2009 | Ban | Griefing | Life |
 
 
