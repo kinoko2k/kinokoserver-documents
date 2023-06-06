@@ -21,12 +21,12 @@ sidebar_position: 4
 | Publicist | 広報係 | 0人 |
 
 ## 運営メンバー紹介
-| アイコン | 名称 | 役職 | その他 |
+| アイコン | 名称 | 役職 | 自己紹介 | その他 |
 | --- | --- | --- | --- |
-| ![Kinoko_2K](https://minotar.net/helm/Kinoko_2K/128.png) | Kinoko_2K | ServerOwner | [Twitter (@kinoko1216)](https://twitter.com/kinoko1216) |
-|  | Piyo | ServerSubOwner | 鯖主の友達 |
-| ![T_orumai](https://minotar.net/helm/T_orumai/128.png) | T_orumai | Administrator |   |
-| ![TomiK5303](https://minotar.net/helm/TomiK5303/128.png) | TomiK5303 | Administrator |   |
-| ![Sylphid_Modder](https://minotar.net/helm/Sylphid_Modder/128.png) | Sylphid_Modder | Administrator | [Twitter (@Sylphid_Modder)](https://twitter.com/Sylphid_Modder) |
+| ![Kinoko_2K](https://minotar.net/helm/Kinoko_2K/128.png) | Kinoko_2K | ServerOwner | 「やりたいことをやる」ってだけ | [Twitter (@kinoko1216)](https://twitter.com/kinoko1216) |
+|  | Piyo | ServerSubOwner | 鯖主を止める人です。 | 鯖主の友達 |
+| ![T_orumai](https://minotar.net/helm/T_orumai/128.png) | T_orumai | Administrator |  |  |
+| ![TomiK5303](https://minotar.net/helm/TomiK5303/128.png) | TomiK5303 | Administrator |  |  |
+| ![Sylphid_Modder](https://minotar.net/helm/Sylphid_Modder/128.png) | Sylphid_Modder |  | Administrator | [Twitter (@Sylphid_Modder)](https://twitter.com/Sylphid_Modder) |
 
 
