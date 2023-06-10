@@ -27,6 +27,9 @@ sidebar_position: 4
 |  | Piyo | ServerSubOwner | 鯖主を止める人です。 | 鯖主の友達 |
 | ![T_orumai](https://minotar.net/helm/T_orumai/128.png) | T_orumai | Administrator |  |  |
 | ![TomiK5303](https://minotar.net/helm/TomiK5303/128.png) | TomiK5303 | Administrator |  |  |
-| ![Sylphid_Modder](https://minotar.net/helm/Sylphid_Modder/128.png) | Sylphid_Modder |  | Administrator | [Twitter (@Sylphid_Modder)](https://twitter.com/Sylphid_Modder) |
+| ![Sylphid_Modder](https://minotar.net/helm/Sylphid_Modder/128.png) | Sylphid_Modder | Administrator |  | [Twitter (@Sylphid_Modder)](https://twitter.com/Sylphid_Modder) |
+| ![hiro_omochi1234](https://minotar.net/helm/hiro_omochi1234/128.png) | hiro_omochi1234 | Developer |  |  |
+| ![zauuuw](https://minotar.net/helm/zauuuw/128.png) | zauuuw | Developer |  |  |
+| ![Yuta0919](https://minotar.net/helm/Yuta0919/128.png) | Yuta0919 | Developer |  |  |
 
 
