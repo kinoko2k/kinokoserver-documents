@@ -1,5 +1,5 @@
 ---
-slug: こんにちは
+slug: hello_world
 title: こんにちは
 authors: [kinoko2k]
 tags: [hello,tutorial]
