@@ -84,11 +84,6 @@ const config = {
             label: '他鯖の管理者向け',
           },
           {
-            href: 'https://discord.gg/VdzXx892Zq',
-            label: 'Discord',
-            position: 'right',
-          },
-          {
             href: 'https://github.com/KinokoServer/docusaurus',
             label: 'GitHub',
             position: 'right',
