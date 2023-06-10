@@ -26,7 +26,9 @@ sidebar_position: 4
 
 ![Kinoko_2K](https://minotar.net/helm/Kinoko_2K/128.png)
 
-ぼーっとして生きてる人。学生。<br>「やりたいことをやる」っていうのがモットー</br>
+ぼーっとして生きてる人。学生。
+
+「やりたいことをやる」っていうのがモットー
 
 [Twitter (@kinoko1216)](https://twitter.com/kinoko1216) | [Discord (フレンドリクエストは身内だけ)](https://discord.com/users/925245386568896564)
 
