@@ -22,7 +22,7 @@ sidebar_position: 4
 
 ## 運営メンバー紹介
 
-### [管理者] Kinoko_2K
+### \[管理者\] Kinoko_2K
 
 ![Kinoko_2K](https://minotar.net/helm/Kinoko_2K/128.png)
 
@@ -30,23 +30,23 @@ sidebar_position: 4
 
 [Twitter (@kinoko1216)](https://twitter.com/kinoko1216) | [Discord (フレンドリクエストは身内だけ)](https://discord.com/users/925245386568896564)
 
-### [副管理者] Piyo
+### \[副管理者\] Piyo
 
 マイクラはない。でも詳しい。鯖主を支えるのが仕事らしい。
 
-### [上層運営] T_orumai
+### \[上層運営\] T_orumai
 
 ![T_orumai](https://minotar.net/helm/T_orumai/128.png)
 
 現在の運営の中で、最古参の運営(?)
 
-### [上層運営] TomiK5303
+### \[上層運営\] TomiK5303
 
 ![TomiK5303](https://minotar.net/helm/TomiK5303/128.png)
 
 きのこサーバーのMinigame鯖にある、「Boooom」というミニゲームの作者。<br>データパック・コマンドに強い人。</br>
 
-### [上層運営] Sylphid_Modder
+### \[上層運営\] Sylphid_Modder
 
 ![Sylphid_Modder](https://minotar.net/helm/Sylphid_Modder/128.png)
 
@@ -54,7 +54,7 @@ sidebar_position: 4
 
 [Twitter (@Sylphid_Modder)](https://twitter.com/Sylphid_Modder)
 
-### [開発係] hiro_omochi1234
+### \[開発係\] hiro_omochi1234
 
 ![hiro_omochi1234](https://minotar.net/helm/hiro_omochi1234/128.png)
 
@@ -62,13 +62,13 @@ sidebar_position: 4
 
 [Twitter (@hiro_omochi1234)](https://twitter.com/hiro_omochi1234)
 
-### [開発係] zauuuw
+### \[開発係\] zauuuw
 
 ![zauuuw](https://minotar.net/helm/zauuuw/128.png)
 
 Plugin開発の人。VotePlugin(投票数を管理するPlugin)などを作った人。
 
-### [開発係] Yuta0919
+### \[開発係\] Yuta0919
 
 ![Yuta0919](https://minotar.net/helm/Yuta0919/128.png)
 

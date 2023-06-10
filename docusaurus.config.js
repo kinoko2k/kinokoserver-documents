@@ -79,7 +79,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'admin',
+            docId: 'admin/index_admin',
             position: 'left',
             label: '他鯖の管理者向け',
           },
