@@ -166,5 +166,17 @@ sidebar_position: 10
 | 124 | 6月1日 | tenju831kirai | Warn | プレイヤーへの暴言に値する行為 | Life |
 | 125 | 6月4日 | BEkaitoEmma | Warn | クロック回路を作動させたまま放置する行為 | Life |
 | 126 | 6月5日 | Tockey2009 | Ban | Griefing | Life |
+| 127 | 6月15日 | KKouki0817 | TempBan-4day | 当サーバーのサービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
+| 128 | 6月22日 | ms_games | Ban | Fly行為 | Life |
+| 129 | 6月23日 | Herobrine | Ban | Bot | Life |
+| 130 | 6月27日 | MENBOU1919 | Ban | Griefing(mcpl) | Life |
+| 131 | 6月27日 | pokonyan1528 | Ban | Banプレイヤーと同IPだったため | Life |
+| 132 | 6月30日 | HARUMA_1 | Ban | Griefing | Life |
+
+### 2023年7月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 133 | 7月1日 | BEhuuhaya1210 | Warn | 他プレイヤーへの悪口発言行為 | Life |
+
 
 
