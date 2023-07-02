@@ -31,7 +31,7 @@ Bedrock EditionまたはPocket Editionの方は、IPアドレス欄に`kinoko.dd
 - Minecraftサーバーリスト → https://minecraft.jp/servers/kinoko.ddns.net
 - Monocraftサーバーリスト → https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
 
-投票すれば、**鉄インゴットが1個**手に入ります。(**2個ページ**があるから、両方やれば**2個**だね！)
+投票すれば、**鉄インゴットが2個**手に入ります。(**2個ページ**があるから、両方やれば**2個**だね！)
 
 ## リンク集
 - このサイト → https://kinokoserver.github.io/documents/

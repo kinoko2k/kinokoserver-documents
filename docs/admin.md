@@ -30,7 +30,7 @@ sidebar_position: 4
 
 「やりたいことをやる」っていうのがモットー
 
-[Twitter (@kinoko1216)](https://twitter.com/kinoko1216) | [Discord (フレンドリクエストは身内だけ)](https://discord.com/users/925245386568896564)
+[Twitter (@kinoko1216)](https://twitter.com/kinoko1216) | [Discord (@kinoko1216))](https://discord.com/users/925245386568896564)
 
 ### 《副管理者》 Piyo
 
