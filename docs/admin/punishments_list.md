@@ -185,6 +185,6 @@ sidebar_position: 10
 | 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
 | - | - | - | - | - | - |
 | 133 | 7月1日 | BEhuuhaya1210 | Warn | 他プレイヤーへの悪口発言行為 | Life |
-
+| 134 | 7月7日 | matsutwo | Tempban-5day | KinokoNetWork利用規約第一条第四項：著作権や権利を侵害する行為を行ったため | Life |
 
 
