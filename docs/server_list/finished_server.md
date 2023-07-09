@@ -14,4 +14,5 @@ sidebar_position: 6
 | Debug鯖 | 運営がデバッグするための鯖 | /server debug | 管理が不可能になったから |
 | Debug2鯖 | 運営がデバッグするための鯖 | /server debug2 | 管理が不可能になったから |
 | Build鯖 | クリエイティブモードで自由に建築できる鯖 | /server build | 管理が不可能になったから |
+| Vanilla鯖 | バニラのサバイバルが遊べるサーバー | /server vanilla | 元々予定されていたから |
 
