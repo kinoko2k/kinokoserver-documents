@@ -42,15 +42,15 @@ sidebar_position: 5
 | --- | --- | --- |
 |/AbandonClaim|今立っている場所の取得された土地を削除します。一度取得された場所を取り直したい場合などに使います。|player|
 |/ClaimExplosions|取得した土地で爆発が許可されているかどうかを切り替えます。|player|
-|/Trust \<player>|別のプレーヤーにあなたの取得した土地を編集する許可を与えます。|player|
-|/UnTrust \<player>|別のプレーヤーに付与された権限を取り消します。|player|
-|/AccessTrust \<player>|ボタン、レバー、ベッドの使用をプレーヤーに許可します。|player|
-|/ContainerTrust \<player>|ボタン、レバー、ベッドの使用をプレーヤーに許可します。|player|
+|/Trust [player]|別のプレーヤーにあなたの取得した土地を編集する許可を与えます。|player|
+|/UnTrust [player]|別のプレーヤーに付与された権限を取り消します。|player|
+|/AccessTrust [player]|ボタン、レバー、ベッドの使用をプレーヤーに許可します。|player|
+|/ContainerTrust [player]|ボタン、レバー、ベッドの使用をプレーヤーに許可します。|player|
 |/TrustList|自分が取得した土地の一覧を表示します。|player|
 |/SubdivideClaims|シャベルを細分化モードに切り替えて、土地の取得を細分化できるようにします。|player|
 |/RestrictSubclaim|SubdivideClaimsを使って細分化した土地を元の土地の権限を継承しないようにします。|player|
 |/BasicClaims|シャベルを基本モードに戻します。|player|
-|/PermissionTrust \<player>|他のプレイヤーに自分の許可レベルを他の人と共有する許可を与えます。Trustした人に自分と同じ権限を渡したいときに使います。|player|
+|/PermissionTrust [player]|他のプレイヤーに自分の許可レベルを他の人と共有する許可を与えます。Trustした人に自分と同じ権限を渡したいときに使います。|player|
 |/AbandonAllClaims|自分が取得した土地の権利をすべて削除します。|player|
 |/ClaimsList|プレーヤーの取得した土地と詳細を一覧表示します。|player|
 |/Trapped|他のプレーヤーの取得した土地から出られなくなった時に外に出られるコマンド|player|
