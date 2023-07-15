@@ -1,0 +1,24 @@
+name: Discord Webhook Notice
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: repository check
+        uses: actions/checkout@v2
+
+      - name: nodejs set up
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: discord webhook
+        uses: appleboy/discord-action@master
+        with:
+          webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          message: 'Docusaurusのページが更新されました！'
+          embeds: '[{"title": "Docusaurusの更新", "description": "Docusaurusのページが更新されました！", "url": "https://kinokoserver.github.io/documents/"}]'
