@@ -186,5 +186,11 @@ sidebar_position: 10
 | - | - | - | - | - | - |
 | 133 | 7月1日 | BEhuuhaya1210 | Warn | 他プレイヤーへの悪口発言行為 | Life |
 | 134 | 7月7日 | matsutwo | Tempban-5day | KinokoNetWork利用規約第一条第四項：著作権や権利を侵害する行為を行ったため | Life |
+| 135 | 7月14日 | Tonkararin0721 | Warn | 他プレイヤーへの暴言に値する発言 | Life |
+| 136 | 7月14日 | BEElseNormal5375 | Kick | 処罰者の私情 | Life |
+| 137 | 7月15日 | BEElseNormal5375 | Warn | 他人の個人情報の開示行為 | Life |
+| 138 | 7月15日 | BEElseNormal5375 | Warn | 他プレイヤーに無断で攻撃する行為 | Life |
+| 139 | 7月15日 | BEElseNormal5375 | Warn | 他プレイヤーに無断で攻撃する行為 | Life |
+| 140 | 7月15日 | BEElseNormal5375 | Kick | 3回目の警告による処罰 | Life |
 
 

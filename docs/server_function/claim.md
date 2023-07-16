@@ -2,7 +2,7 @@
 sidebar_label: 保護の仕方
 sidebar_position: 5
 ---
-# 保護について
+# 保護について(GriefPrevention)
 きのこサーバーでは、GriefPreventionを使って、土地の保護を行えます。
 
 ## 保護取得方法
