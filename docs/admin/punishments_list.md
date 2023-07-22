@@ -192,5 +192,15 @@ sidebar_position: 10
 | 138 | 7月15日 | BEElseNormal5375 | Warn | 他プレイヤーに無断で攻撃する行為 | Life |
 | 139 | 7月15日 | BEElseNormal5375 | Warn | 他プレイヤーに無断で攻撃する行為 | Life |
 | 140 | 7月15日 | BEElseNormal5375 | Kick | 3回目の警告による処罰 | Life |
+| 141 | 7月18日 | gavSQRL | Ban | 侮辱差別,Griefing | Life |
+| 142 | 7月19日 | matsuwo | Warn | 政治または宗教的思想を示すものを示唆する行為に違反しているため | Life |
+| 143 | 7月21日 | BEhuuhaya1210 | Warn | 他人に対する悪口発言行為 | Life |
+| 144 | 7月21日 | java_chiaki | Mute | none | Life |
+| 145 | 7月21日 | java_chiaki | UnMute | none | Life |
+| 146 | 7月22日 | TRUENO13954 | Note | 不具合や脆弱性を調査または使用する行為 | Life |
+| 147 | 7月22日 | TRUENO13954 | Warn | クロック回路を作動させたまま放置する行為 | Life |
+| 148 | 7月22日 | java_chiaki | Mute | spam | Life |
+| 149 | 7月22日 | java_chiaki | Warn | spamに値する行為 | Life |
+| 150 | 7月23日 | java_chiaki | UnMute | none | Life |
 
 

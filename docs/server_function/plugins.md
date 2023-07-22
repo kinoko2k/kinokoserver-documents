@@ -20,4 +20,4 @@ Plugin(プラグイン)は、サーバーにいろいろな機能を導入する
 | IronElevator | 鉄ブロックを使ってエレベーターを作る |
 | Kinokosystem | 様々な機能 |
 | Votifier | 投票管轄 |
-| GriefPrevention | 保護の仕方を参照 |
+| [GriefPrevention](claim.md) | 保護の仕方を参照 |
