@@ -201,6 +201,10 @@ sidebar_position: 10
 | 147 | 7月22日 | TRUENO13954 | Warn | クロック回路を作動させたまま放置する行為 | Life |
 | 148 | 7月22日 | java_chiaki | Mute | spam | Life |
 | 149 | 7月22日 | java_chiaki | Warn | spamに値する行為 | Life |
-| 150 | 7月23日 | java_chiaki | UnMute | none | Life |
+| 150 | 7月22日 | java_chiaki | UnMute | none | Life |
+| 151 | 7月23日 | TRUENO13954 | Mute | none | Life |
+| 152 | 7月23日 | TRUENO13954 | UnMute | none | Life |
+| 153 | 7月24日 | BEElseNormal5375 | Warn | 他サーバーの宣伝勧誘行為 | Life |
+| 154 | 7月24日 | BEElseNormal5375 | TempBan-30m | 4回目の警告による処罰 | Life |
 
 
