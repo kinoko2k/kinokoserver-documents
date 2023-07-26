@@ -206,5 +206,10 @@ sidebar_position: 10
 | 152 | 7月23日 | TRUENO13954 | UnMute | none | Life |
 | 153 | 7月24日 | BEElseNormal5375 | Warn | 他サーバーの宣伝勧誘行為 | Life |
 | 154 | 7月24日 | BEElseNormal5375 | TempBan-30m | 4回目の警告による処罰 | Life |
-
+| 155 | 7月26日 | fellow522 | Ban | Griefing | Life |
+| 156 | 7月26日 | fellow522 | IPBan | Griefing | Life |
+| 157 | 7月26日 | fellow522 | Ban | Griefing | Proxy |
+| 158 | 7月26日 | TRUENO13954 | TempMute-3h | 意味のない文字列によるSpam | Life |
+| 159 | 7月26日 | ingot280 | Ban | Griefing | Proxy |
+| 160 | 7月26日 | TRUENO13954 | UnMute | none | Life |
 
