@@ -115,16 +115,16 @@ const config = {
             title: 'コミュニティ',
             items: [
               {
-                label: 'KinokoServer公式Wiki',
-                href: 'https://seesaawiki.jp/kinokonetwork/',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.com/invite/Qs6q3mhz2S',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/kinoko_network',
+                label: 'mcjp',
+                href: 'https://minecraft.jp/servers/kinoko.ddns.net',
+              },
+              {
+                label: 'monocraft.net',
+                href: 'https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ',
               },
             ],
           },
