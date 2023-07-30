@@ -70,7 +70,7 @@ sidebar_position: 6
 ## サーバ内著作物について
 アイコンやヘッダーはすべて、Piyoに帰属します。
 
-サーバ内で制作されたPlugin等は、全てKinokoNetWorkに帰属します。
+サーバ内で制作されたProject/Plugin等は、全てKinokoNetWorkに帰属します。これはKinokoNetWork運営規約で定まっています。
 
 ## Life鯖の制限について
 現在、多大なる負荷でサーバーが落ちる事案が発生しています。
