@@ -212,4 +212,10 @@ sidebar_position: 10
 | 158 | 7月26日 | TRUENO13954 | TempMute-3h | 意味のない文字列によるSpam | Life |
 | 159 | 7月26日 | ingot280 | Ban | Griefing | Proxy |
 | 160 | 7月26日 | TRUENO13954 | UnMute | none | Life |
+| 161 | 7月28日 | TRUENO13954 | Warn | 無許可で他プレイヤーに攻撃する行為 | Life |
+| 162 | 7月28日 | TRUENO13954 | Warn | 無許可で他プレイヤーに攻撃する行為 | Life |
+| 163 | 7月28日 | TRUENO13954 | Kick | 3回目の警告による処罰 | Life |
+| 164 | 7月29日 | buyoyo | Warn | 他プレイヤーに対して、高価なアイテムなどを対等な対価で取引しない行為 | Life |
+| 165 | 7月29日 | KKouki0817 | Mute | サービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
+| 166 | 7月30日 | KKouki0817 | UnMute | none | Life |
 
