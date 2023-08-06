@@ -10,6 +10,8 @@ sidebar_position: 5
 > ・本規約では「KinokoNetWork内のサーバー」を「サーバー」と表記します。
 > 
 > ・本規約は、KinokoNetWorkに参加した時点で同意したことになります。
+>
+> ・[Minecraft利用規約](https://www.minecraft.net/ja-jp/terms/r3)に準ずるものであり、「Minecraft」はMojang ABの登録商標です。本サービスは、Mojang社から承認されておらず、Mojang社とは関係ありません。
 
 ## 1. 参加について
 1. 本規約をよく読んでから参加すること。
