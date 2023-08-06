@@ -11,7 +11,7 @@ sidebar_position: 5
 > 
 > ・本規約は、KinokoNetWorkに参加した時点で同意したことになります。
 >
-> ・[Minecraft利用規約](https://www.minecraft.net/ja-jp/terms/r3)に準ずるものであり、「Minecraft」はMojang ABの登録商標です。本サービスは、Mojang社から承認されておらず、Mojang社とは関係ありません。
+> ・「Minecraft」はMojang ABの登録商標です。本サービスは、Mojang社から承認されておらず、Mojang社とは関係ありません。
 
 ## 1. 参加について
 1. 本規約をよく読んでから参加すること。
@@ -19,6 +19,7 @@ sidebar_position: 5
 3. VPNやProxy等を使い、不正な処罰を受けた際は対応不可とする。
 4. 不正な方法を使い挙動や情報が変更されたとしても運営は対応しないとする。
 5. 他プレイヤーに対しての言葉遣い、コミュニケーションを気を付けて取るようにする。
+6. [Minecraft利用規約](https://www.minecraft.net/ja-jp/terms/r3)に従わなければならない。
 
 ## 2. 処罰対象行為について
 ### 1-1 サービスに影響を与える行為
