@@ -1,6 +1,6 @@
 ---
-sidebar_label: 利用規約
-sidebar_position: 5
+sidebar_label: 利用規約・ルール
+sidebar_position: 2
 ---
 # KinokoNetWork利用規約
 > ・この利用規約は、KinokoNetWorkサーバー内すべてに適応されます。
