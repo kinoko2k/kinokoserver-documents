@@ -219,3 +219,29 @@ sidebar_position: 10
 | 165 | 7月29日 | KKouki0817 | Mute | サービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
 | 166 | 7月30日 | KKouki0817 | UnMute | none | Life |
 
+### 2023年8月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 167 | 8月4日 | buyoyo | Warn | Spam | Life |
+| 168 | 8月4日 | BENameQzi | Ban | Griefing | Life |
+| 169 | 8月4日 | BEIZ34Sb7Bq012 | TempBan-3day | 常時動き続ける回路を放置する行為 | Life |
+| 170 | 8月4日 | BESpeedingParty2 | TempBan-5day | Griefing | Life |
+| 171 | 8月4日 | kakaminn0513 | Warn | 他プレイヤーに対して、高価なアイテムなどを対等な対価で取引しない行為。 | Life |
+| 172 | 8月5日 | kakaminn0513 | UnWarn | 誤Warn | Life |
+| 173 | 8月5日 | Gonakam | Warn | 他プレイヤーに対して、高価なアイテムなどを対等な対価で取引しない行為。 | Life |
+| 174 | 8月10日 | Tonkararin0721 | Warn | 他人の個人情報の開示を行ったため | Life |
+| 175 | 8月10日 | Tonkararin0721 | Kick | 3回目の警告 | Life |
+| 176 | 8月11日 | java_chiaki | Warn | 意味もない発言を連投する行為 | Life |
+| 177 | 8月13日 | tivo7 | Ban | チートクライアントの使用行為 | Life |
+| 178 | 8月13日 | Happygames_YT | Ban | tivo7と同IP,チートクライアントの使用 | Life |
+| 179 | 8月13日 | tivo7を含むIP | IPBan | サーバー運営を妨害する行為 | Proxy |
+| 180 | 8月13日 | J0m0_ | Ban | チートクライアントの使用行為 | Life |
+| 181 | 8月13日 | Onyonyo_o | Ban | チートクライアントの使用行為 | Life |
+| 182 | 8月13日 | tivo7を含むIP | IPBan | サーバー運営を妨害する行為 | Life |
+| 183 | 8月13日 | igar1を含むIP | IPBan | サーバー運営を妨害する行為 | Proxy |
+| 184 | 8月13日 | BF_ARKを含むIP | IPBan | チートクライアントの使用行為 | Proxy |
+| 185 | 8月13日 | Onyonyo_oを含むIP | IPBan | チートクライアントの使用行為 | Proxy |
+| 186 | 8月14日 | koikingu_gyarado | Ban | サーバー運営を妨害する行為 | Life |
+| 187 | 8月14日 | igar1 | Ban | サーバー運営を妨害する行為 | Life |
+| 188 | 8月14日 | BF_ARK | Ban | チートクライアントの使用行為 | Life |
+| 189 | 8月14日 | TUTI_aho | Ban | サーバー運営を妨害する行為 | Life |
