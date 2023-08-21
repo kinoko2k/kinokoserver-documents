@@ -245,3 +245,5 @@ sidebar_position: 10
 | 187 | 8月14日 | igar1 | Ban | サーバー運営を妨害する行為 | Life |
 | 188 | 8月14日 | BF_ARK | Ban | チートクライアントの使用行為 | Life |
 | 189 | 8月14日 | TUTI_aho | Ban | サーバー運営を妨害する行為 | Life |
+| 190 | 8月21日 | BEMasatoyodayo | Ban | 荒らし自主 [証拠①](img/cxghyz0a.bmp) [証拠②](img/7s7pyw7k.bmp) | Life |
+| 191 | 8月21日 | BEMasatoyodayoを含むIP | IPBan | サーバー運営を妨害する行為 | Life |
