@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import('@docusaurus/types').Config} 1*/
 const config = {
   title: 'KinokoServer Wiki',
   tagline: 'Minecraft Java & BE Server - 楽しく雑談できるサバイバルサーバー！',
