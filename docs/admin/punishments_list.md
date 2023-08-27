@@ -245,5 +245,24 @@ sidebar_position: 10
 | 187 | 8月14日 | igar1 | Ban | サーバー運営を妨害する行為 | Life |
 | 188 | 8月14日 | BF_ARK | Ban | チートクライアントの使用行為 | Life |
 | 189 | 8月14日 | TUTI_aho | Ban | サーバー運営を妨害する行為 | Life |
-| 190 | 8月21日 | BEMasatoyodayo | Ban | 荒らし自主 [証拠①](img/cxghyz0a.bmp) [証拠②](img/7s7pyw7k.bmp) | Life |
-| 191 | 8月21日 | BEMasatoyodayoを含むIP | IPBan | サーバー運営を妨害する行為 | Life |
+| 190 | 8月20日 | BEMasatoyodayo | Ban | 荒らし自主 [証拠①](img/cxghyz0a.bmp) [証拠②](img/7s7pyw7k.bmp) | Life |
+| 191 | 8月20日 | BEMasatoyodayoを含むIP | IPBan | サーバー運営を妨害する行為 | Life |
+| 192 | 8月21日 | asasin_eaed | Ban | Griefing | Life |
+| 193 | 8月23日 | tenju831kirai | Warn | Griefing | Life |
+| 194 | 8月23日 | tenju831kirai | Kick | 3回目の警告 | Life |
+| 195 | 8月24日 | Verxey_ | Ban | チートクライアントの使用行為 | Life |
+| 196 | 8月24日 | choice21 | IPBan | チートクライアントの使用行為 | Life |
+| 197 | 8月24日 | Chaosgurke46 | Ban | チートクライアントの使用行為,Fly | Life |
+| 198 | 8月24日 | Lil_Craft_ | IPBan | チートクライアントの使用行為 | Life |
+| 199 | 8月25日 | BEbammX1 | Warn | 管理者の判断での処罰に値する行為 | Life |
+| 200 | 8月25日 | BETanatabunn2357 | Warn | 他プレイヤーに対して、高価なアイテムなどを対等な対価で取引しない行為 | Life |
+| 201 | 8月25日 | BEbammX1 | Mute | 他サーバーおよび他グループの宣伝勧誘行為 | Life |
+| 202 | 8月25日 | BEbammX1 | UnMute | none | Life |
+| 203 | 8月25日 | BEbammX1 | TempMute-3hour | 他サーバーおよび他グループの宣伝勧誘行為 | Life |
+| 204 | 8月25日 | BEbammX1 | UnMute | none | Life |
+| 205 | 8月25日 | 648236858 | TempMute-3hour | 他サーバーおよび他グループの宣伝勧誘行為 | Life |
+| 206 | 8月25日 | BESpiredVoice702 | Ban | Griefing | Life |
+| 207 | 8月25日 | 648236858 | Warn | 他サーバーまたは他グループの宣伝勧誘行為 | Life |
+| 208 | 8月25日 | 648236858 | UnMute | none | Life |
+| 209 | 8月26日 | BEbammX1 | Warn | 詐欺行為 | Life |
+| 210 | 8月26日 | BEAllimX2 | Warn | 窃盗行為 | Life |
