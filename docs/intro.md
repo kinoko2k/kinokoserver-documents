@@ -19,7 +19,7 @@ Bedrock EditionまたはPocket Editionの方は、IPアドレス欄に`kinoko.dd
 
 参加するを押して、**20秒後**ぐらいに、開きます。
 
-```jsx 
+<!-- 
 function MyPlayground(props) {
   return (
     <div>
@@ -27,7 +27,7 @@ function MyPlayground(props) {
     </div>
   );
 }
-```
+-->
 ## 貢献について
 皆様が、サーバー参加申請やサーバーにお金を払うことはありませんが、少数でサーバー運営で活動しているので、どうしても人手が足りません...
 
