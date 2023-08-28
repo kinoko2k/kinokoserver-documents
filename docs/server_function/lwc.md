@@ -1,5 +1,5 @@
 ---
-sidebar_label: チェスト保護について
+sidebar_label: 🗃️ | チェスト保護について
 sidebar_position: 8
 ---
 # LWCについて

@@ -1,5 +1,5 @@
 ---
-sidebar_label: メールについて
+sidebar_label: 📧 | メールについて
 sidebar_position: 6
 ---
 # メールについて(UndineMailer)
