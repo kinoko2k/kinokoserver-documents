@@ -271,3 +271,13 @@ sidebar_position: 10
 | 208 | 8月25日 | 648236858 | UnMute | none | Life |
 | 209 | 8月26日 | BEbammX1 | Warn | 詐欺行為 | Life |
 | 210 | 8月26日 | BEAllimX2 | Warn | 窃盗行為 | Life |
+| 211 | 8月28日 | pandan8000 | Mute | 不適切な発言 | Life |
+| 212 | 8月28日 | BETabb2I | Mute | 不適切な発言 | Life |
+| 213 | 8月28日 | BETabb2I | UnMute | none | Life |
+| 214 | 8月28日 | TRUENO13954 | Ban | 陰陽師,ネットから一時引退 | Proxy |
+| 215 | 8月28日 | TRUENO13954 | UnBan | ネットから一時引退 | Proxy |
+| 216 | 8月28日 | BEbammX1 | Ban | 本アカウントが処罰されたとき、サブアカウントも同時に同じ処罰を問うこととする。 | Life |
+| 217 | 8月28日 | BEAllimX2 | Ban | 本アカウントが処罰されたとき、サブアカウントも同時に同じ処罰を問うこととする。 | Life |
+| 218 | 8月28日 | BETrImmIe120 | Ban | 本アカウントが処罰されたとき、サブアカウントも同時に同じ処罰を問うこととする。 | Life |
+| 219 | 8月28日 | BETrazmm123 | Ban | 本アカウントが処罰されたとき、サブアカウントも同時に同じ処罰を問うこととする。 | Life |
+| 220 | 8月28日 | BEUttmostostO757 | Ban | 本アカウントが処罰されたとき、サブアカウントも同時に同じ処罰を問うこととする。 | Life |
