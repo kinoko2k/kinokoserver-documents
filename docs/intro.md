@@ -45,7 +45,6 @@ function MyPlayground(props) {
 
 ## リンク集
 - このサイト → https://kinokoserver.github.io/documents/
-- 運営応募URL → https://mineidea.net/projects/4643268475
 - Minecraftサーバーリスト → https://minecraft.jp/servers/kinoko.ddns.net
 - Monocraftサーバーリスト → https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
 - サーバー公式Discord → https://discord.com/invite/VdzXx892Zq
