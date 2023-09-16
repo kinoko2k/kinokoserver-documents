@@ -297,3 +297,9 @@ sidebar_position: 10
 | 230 | 9月8日 | kukukusu | Warn | サービス継続に支障が出る形態で、不具合や脆弱性を調査または悪用する行為 | Life |
 | 231 | 9月9日 | oguratakato | Ban | Griefing | Life |
 | 232 | 9月9日 | YUP3345 | Warn | 当サーバで不正にアイテムを取得する行為 | Life |
+| 233 | 9月14日 | java_chiaki | TempBan-7day | KinokoNetWork利用規約違反,13歳未満でDiscordを使用する行為 | Life |
+| 234 | 9月14日 | java_chiaki | TempIPBan-7day | KinokoNetWork利用規約違反,13歳未満でDiscordを使用する行為 | Proxy |
+| 235 | 9月15日 | tenju831kirai | Warn | 1チャンク以内のエンティティを16体以上を生成する行為 | Life |
+| 236 | 9月15日 | tenju831kirai | Kick | 5回目の警告 | Life |
+| 237 | 9月16日 | KKouki0817 | Warn | spam | Life |
+
