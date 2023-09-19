@@ -302,4 +302,15 @@ sidebar_position: 10
 | 235 | 9月15日 | tenju831kirai | Warn | 1チャンク以内のエンティティを16体以上を生成する行為 | Life |
 | 236 | 9月15日 | tenju831kirai | Kick | 5回目の警告 | Life |
 | 237 | 9月16日 | KKouki0817 | Warn | spam | Life |
-
+| 238 | 9月17日 | tenju831kirai | Warn | ForceField | Life |
+| 239 | 9月17日 | tenju831kirai | Kick | 6回目の警告 | Life |
+| 240 | 9月17日 | tenju831kirai | TempBan-5hour | 7回目の警告 | Life |
+| 241 | 9月17日 | tenju831kirai | TempBan-5hour | 申請なしにTTから不正にアイテムを取得する行為 | Life |
+| 242 | 9月17日 | KKouki0817 | Warn | 不具合や脆弱性を調査する行為 | Life |
+| 243 | 9月17日 | KKouki0817 | TempMute-1hour | 不具合や脆弱性を調査する行為 | Life |
+| 244 | 9月18日 | tenju831kirai | Note | 急激にチャンクやエンティティを増やすまたは読み込む行為 | Life |
+| 245 | 9月18日 | tenju831kirai | Note | 急激にチャンクやエンティティを増やすまたは読み込む行為(2回目) | Life |
+| 246 | 9月18日 | frosiky | Warn | 不具合や脆弱性を調査する行為 | Life |
+| 247 | 9月18日 | BEkukukusu | Warn | 当サーバーに関係ないサーバやグループへの勧誘行為 | Life |
+| 248 | 9月18日 | KKouki0817 | UnWarn | #242 管理者会議で影響がないことを証明 | Life |
+| 249 | 9月18日 | frosiky | UnWarn | #246 管理者会議で影響がないことを証明 | Life |
