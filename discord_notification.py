@@ -43,4 +43,4 @@ headers = {'Content-Type': 'application/json'}
 response = requests.post(webhook_url, data=json.dumps(payload), headers=headers)
 
 # レスポンスを表示（デバッグ用）
-print(response.text)
+# print(response.text)
