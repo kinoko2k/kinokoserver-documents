@@ -13,6 +13,9 @@ run_number = os.environ['GITHUB_RUN_NUMBER']
 workflow_status = os.environ['GITHUB_RUN_CONCLUSION']
 commit_message = os.environ['GITHUB_EVENT_PATH']
 
+# GitHubのコミットSHAを取得
+github_sha = os.environ['GITHUB_SHA']
+
 # GitHub APIを使用してコミットメッセージを取得
 api_url = f"https://api.github.com/repos/{repository_name}/commits/{github_sha}"
 response = requests.get(api_url)
