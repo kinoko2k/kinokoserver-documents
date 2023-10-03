@@ -1,0 +1,29 @@
+name: Discord Notification
+
+on:
+  push:
+    branches:
+      - main  # 通知を送信したいブランチを指定
+      - dependabot
+
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check Out Repository
+      uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    
+    - name: Run Discord Notification Script
+      env:
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        GITHUB_REF: ${{ github.ref }}
+        GITHUB_RUN_NUMBER: ${{ github.run_number }}
+        GITHUB_RUN_CONCLUSION: ${{ job.status }}
+        GITHUB_EVENT_PATH: ${{ github.event_path }}
+      run: python discord_notification.py
