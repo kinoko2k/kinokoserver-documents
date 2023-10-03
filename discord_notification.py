@@ -13,15 +13,21 @@ run_number = os.environ['GITHUB_RUN_NUMBER']
 workflow_status = os.environ['GITHUB_RUN_CONCLUSION']
 commit_message = os.environ['GITHUB_EVENT_PATH']
 
+# GitHub APIを使用してコミットメッセージを取得
+api_url = f"https://api.github.com/repos/{repository_name}/commits/{github_sha}"
+response = requests.get(api_url)
+commit_info = response.json()
+commit_message = commit_info['commit']['message']
+
 # Embedメッセージを作成
 embed_data = {
-    "title": f"{repository_name}",
+    "title": f"[{repository_name}](<https://github.com/KinokoServer/documents>)",
     "fields": [
         {"name": "Branch", "value": f"{branch_name}", "inline": True},
         {"name": "Run", "value": f"{run_number}", "inline": True},
         {"name": "Status", "value": f"{workflow_status}", "inline": True},
+        {"name": "Changes", "value": f"```{commit_message}```", "inline": False},
     ],
-    "description": f"Changes: {commit_message}",
     "color": 65280 if workflow_status == "success" else 16711680
 }
 
