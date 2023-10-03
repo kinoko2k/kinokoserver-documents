@@ -29,4 +29,6 @@ jobs:
         GITHUB_RUN_NUMBER: ${{ github.run_number }}
         GITHUB_RUN_CONCLUSION: ${{ job.status }}
         GITHUB_EVENT_PATH: ${{ github.event_path }}
+        DISCORD_WEBHOOK_SECRET: ${{ secrets.DISCORD_WEBHOOK_SECRET }}
+        
       run: python discord_notification.py
