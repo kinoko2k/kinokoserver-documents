@@ -19,6 +19,9 @@ jobs:
       with:
         python-version: 3.x
     
+    - name: Install Dependencies
+      run: pip install requests  # requestsモジュールをインストール
+    
     - name: Run Discord Notification Script
       env:
         GITHUB_REPOSITORY: ${{ github.repository }}
