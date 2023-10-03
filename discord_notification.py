@@ -24,7 +24,7 @@ commit_message = commit_info['commit']['message']
 
 # Embedメッセージを作成
 embed_data = {
-    "title": f"[{repository_name}](<https://github.com/KinokoServer/documents>)",
+    "title": f"[{KinokoServer/documents}](<https://github.com/KinokoServer/documents>)",
     "fields": [
         {"name": "Branch", "value": f"{branch_name}", "inline": True},
         {"name": "Run", "value": f"{run_number}", "inline": True},
