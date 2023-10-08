@@ -10,7 +10,7 @@ Plugin(プラグイン)は、サーバーにいろいろな機能を導入する
 ## サーバーの主要なPlugin
 | 名称 | 説明 |
 | --- | --- |
-| LWC | チェストやドアに保護をかける |
+| [LWC](lwc.md) | チェストやドアに保護をかける |
 | [DiscordSRV](discord_link.md) | DiscordとMinecraftChatを接続する |
 | Gsit | 座ったり寝転がったりする |
 | PlayerStats | プレイヤー情報を記録しランキングを表示する |

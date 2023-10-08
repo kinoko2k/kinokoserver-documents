@@ -26,25 +26,11 @@ Bedrock EditionまたはPocket Editionの方は、IPアドレス欄に`kinoko.dd
 
 ## サーバーに参加すると...(Lobby鯖)
 
-初めにサーバーに参加すると、下記の画像のような所につきます。
+正面に進むと、[Lifeサーバー](../server_list/life.md)に行き
 
-![](img/first_player_1.png)
+右に進むと、[Minigameサーバー](../server_list/minigame.md)に行き
 
-上から見た図は下記の画像です。
-
-![](img/first_player_2.png)
-
-赤い丸のところは、`Lifeサーバー`のゲートとなります。緑の丸のところは、`Minigameサーバー`のゲートです。
-
-![](img/first_player_life_gate.png)
-
-`Lifeサーバー`のゲートは、このようになっていて、水の中に入ると`Lifeサーバー`に移動します。
-
-![](img/first_player_minigame_gate.png)
-
-`Minigameサーバー`のゲートは、このようになっていて、マグマの中に入ると`Minigameサーバー`に移動します。
-
-※運が悪いとLobbyサーバーで倒れる可能性があります。その場合はリスポーンして、真ん中を狙って飛び込んでください。
+左に進むと、[SandBoxサーバー](../server_list/sandbox.md)に行けます。
 
 ## サーバーに参加すると...(Life鯖)
 

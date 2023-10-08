@@ -16,4 +16,5 @@ sidebar_position: 6
 | Build鯖 | クリエイティブモードで自由に建築できる鯖 | /server build | 管理が不可能になったから |
 | Vanilla鯖 | バニラのサバイバルが遊べるサーバー | /server vanilla | 元々予定されていたから |
 | HardCore鯖 | 一度死んだら入れなくなるサーバー | /server hardcore | 元々予定されていたから |
+| tenju831kirai鯖 | 野菜鬼畜鯖 | /server tenju831kirai | 元々予定されていたから |
 
