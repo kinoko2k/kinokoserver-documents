@@ -1,5 +1,5 @@
 ---
-sidebar_label: サンドボックスサーバー
+sidebar_label: 🔨サンドボックスサーバー
 sidebar_position: 5
 ---
 # SandBoxサーバー
@@ -10,4 +10,5 @@ sidebar_position: 5
 | - | - | - |
 | World | 経済鯖の準備 | 開始 ~ 08/09 |
 | 1th_world | きのこサーバー１周年記念イベント | 8/14 ~ 8/16 |
-| economy_world | 経済鯖デバッグ |  |
+| economy_world | 経済鯖デバッグ | ~ 10/21 |
+| player_server | プレイヤーの個人サーバー | 10/22 ~ |

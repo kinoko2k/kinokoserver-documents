@@ -1,5 +1,5 @@
 ---
-sidebar_label: ミニゲームサーバー
+sidebar_label: 🎮ミニゲームサーバー
 sidebar_position: 4
 ---
 # Minigameサーバー
