@@ -314,3 +314,30 @@ sidebar_position: 10
 | 247 | 9月18日 | BEkukukusu | Warn | 当サーバーに関係ないサーバやグループへの勧誘行為 | Life |
 | 248 | 9月18日 | KKouki0817 | UnWarn | #242 管理者会議で影響がないことを証明 | Life |
 | 249 | 9月18日 | frosiky | UnWarn | #246 管理者会議で影響がないことを証明 | Life |
+| 250 | 9月20日 | yuzuco | Note | Griefing(軽度のブロック設置) | Life |
+| 251 | 9月21日 | AlecSteve___4__1 | Ban | チートクライアントの使用(mcpl) | Life |
+| 252 | 9月21日 | java_chiaki | Ban | 管理者会議の判断,discord利用規約違反(13歳未満の使用) | Life |
+| 253 | 9月21日 | java_chiaki | Ban | KinokoNetWork利用規約違反 | Proxy |
+| 254 | 9月23日 | tenju831kirai | Warn | 急激にチャンクやエンティティを増やすまたは読み込む行為 | Life |
+| 255 | 9月23日 | tenju831kirai | TempBan-5hour | 7回目の警告 | Life |
+| 256 | 9月23日 | s_sakana0812 | Warn | spam | Life |
+| 257 | 9月24日 | kai0919 | Warn | Ddos攻撃などのサーバーに対して意図的に負荷をかけたりする行為 | Life |
+| 258 | 9月30日 | keishikun_ | Warn | 政治的、宗教的な発言をする行為 | Life |
+| 259 | 9月23日 | keishikun_ | TempMute-20min | 政治的、宗教的な発言をする行為 | Life |
+
+### 2023年10月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 260 | 10月01日 | TAKKI_0926 | Warn | 他プレイヤーに対して、誹謗中傷・差別・脅迫・強要をする行為 | Life |
+| 261 | 10月03日 | YUP3345 | TempMute-10min | 卑猥な発言 | Life |
+| 262 | 10月03日 | YUP3345 | Warn | チャットへの公序良俗に反する発言行為 | Life |
+| 263 | 10月03日 | YUP3345 | TempMute-30min | チャットへの公序良俗に反する発言行為 | Life |
+| 264 | 10月05日 | tenju831kirai | Warn | コマンドの不必要な連続使用 | Life |
+| 265 | 10月07日 | keishikun_ | Warn | 常時動き続ける回路を作成する行為 | Life |
+| 266 | 10月09日 | keishikun_ | TempMute-30min | 他プレイヤーに対して、誹謗中傷する行為 | Life |
+| 267 | 10月13日 | TAKKI_0926 | Warn | spam | Life |
+| 268 | 10月13日 | TRUENO13954 | Warn | spam | Life |
+| 269 | 10月13日 | TRUENO13954 | Kick | 4回目の警告 | Life |
+| 270 | 10月19日 | YUP3345 | TempMute-10min | 不適切な発言を感知しました | Life |
+| 271 | 10月19日 | YUP3345 | Warn | 不適切な発言 | Life |
+| 272 | 10月19日 | YUP3345 | Kick | 3回目の警告 | Life |
