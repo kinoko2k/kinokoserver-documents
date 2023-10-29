@@ -341,3 +341,4 @@ sidebar_position: 10
 | 270 | 10月19日 | YUP3345 | TempMute-10min | 不適切な発言を感知しました | Life |
 | 271 | 10月19日 | YUP3345 | Warn | 不適切な発言 | Life |
 | 272 | 10月19日 | YUP3345 | Kick | 3回目の警告 | Life |
+| 273 | 10月29日 | fukurou0619 | Warn | 他プレイヤーに対して、誹謗中傷・差別・脅迫・強要をする行為 | Life |
