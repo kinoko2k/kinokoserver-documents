@@ -61,6 +61,8 @@ sidebar_position: 6
 - 不明　　- サーバー復活(minigameとlifeのみ)
 - 2023年8月14日 - きのこサーバー１周年記念
 - 2023年10月07日 - 経済鯖デバッグ開始
+- 2023年11月03日 - Lifeサーバーに経済要素追加
+- 2023年11月04日 - VoiceLifeサーバー開始
 
 ## サーバリスト
 - LobbyServer > 最初にログインするサーバ。
@@ -83,3 +85,16 @@ sidebar_position: 6
 | --- | --- | --- | --- |
 | y200制限 | y200以上にある建築の残りなどが景観を悪くするため | Regular以外 | 景観状態が解消 |
 | endワールドで飛べない制限 | 上級者がエリトラを乱獲するため、初心者を守るため | 初心者以外 | 解除されないものとする |
+
+## リンクリスト
+- 公式サイト : https://kinoko.ddns.net/
+- 公式Wiki : https://kinokoserver.github.io/documents/
+- この鯖の招待URL : https://discord.gg/VdzXx892Zq
+- クラフターズコロニーサーバーリスト : https://minecraft-mcworld.com/19072/
+- 投票サイト : 
+    - https://minecraft.jp/servers/kinoko.ddns.net
+    - https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
+- 鯖主のTwitter : https://twitter.com/kinoko1216
+- お問い合わせ : https://forms.gle/sLCkmEr3Lpmdn5Qp6 
+- Github : https://github.com/KinokoServer/
+- Wiki Edit : https://github.com/KinokoServer/documents/

@@ -13,7 +13,7 @@ sidebar_position: 1
 
 [ルールはこちらから読めます。](tos.md)
 ## 参加方法
-Java Editionの方の参加IPは、`kinoko.ddns.net:25565`です。対応バージョンは、`1.12.2~1.19.x`です。
+Java Editionの方の参加IPは、`kinoko.ddns.net:25565`です。対応バージョンは、`1.12.2~1.20.x`です。
 
 Bedrock EditionまたはPocket Editionの方は、IPアドレス欄に`kinoko.ddns.net`を、ポート番号に`19132`を入れて保存してください。対応バージョンは、`最新版`だけです。
 
@@ -49,3 +49,5 @@ function MyPlayground(props) {
 - Monocraftサーバーリスト → https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
 - サーバー公式Discord → https://discord.com/invite/VdzXx892Zq
 
+## このWikiについて
+このWikiに追加してほしい情報等があれば、[ここ](https://github.com/KinokoServer/documents/issues/new?assignees=&labels=question&projects=&template=q%26a_report.md&title=)で意見をお願いします。
