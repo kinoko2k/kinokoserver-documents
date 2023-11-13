@@ -86,6 +86,19 @@ sidebar_position: 6
 | y200制限 | y200以上にある建築の残りなどが景観を悪くするため | Regular以外 | 景観状態が解消 |
 | endワールドで飛べない制限 | 上級者がエリトラを乱獲するため、初心者を守るため | 初心者以外 | 解除されないものとする |
 
+## 収支報告
+収入源はありません。（例外除く）
+| 日付 | 種類 | 概要 | 金額 |
+| --- | --- | --- | --- |
+| 2023/05/28 | 🔴 支払 | Discord Nitro Classic Gift | -¥ 440 |
+| 2023/08/25 | 🔴 支払 | rank gift | -¥ 813 |
+| 2023/08/25 | 🔴 支払 | Discord Nitro Classic Gift | -¥ 480 |
+| 2023/09/10 | 🔴 支払 | rank gift | -¥ 1081 |
+| 2023/10/01 | 🔴 支払 | Discord Nitro Classic Gift | -¥ 480 |
+| 2023/11/02 | 🔵 収入 | Piyo寄付 | +¥ 2 |
+| 2023/11/12 | 🔴 支払 | Discord Nitro Classic Gift | -¥ 480 |
+
+
 ## リンクリスト
 - 公式サイト : https://kinoko.ddns.net/
 - 公式Wiki : https://kinokoserver.github.io/documents/
