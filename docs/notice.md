@@ -2,8 +2,11 @@
 sidebar_label: 🚨お知らせ
 sidebar_position: 7
 ---
-:::danger
+:::warning
 
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
 サーバー運営による大切なお知らせです。
 
 :::

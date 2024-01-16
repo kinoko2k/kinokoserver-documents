@@ -2,6 +2,11 @@
 sidebar_label: 初めての方へ
 sidebar_position: 1
 ---
+:::warning
+
+サーバー運営による大切なお知らせがあります。[お知らせ](notice.md)
+
+:::
 
 # 初めての方へ
 見てくれてありがとうございます。このサイトは、KinokoServerについてのことが書かれたいわゆる「Wiki」みたいなものです。
