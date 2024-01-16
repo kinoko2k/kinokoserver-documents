@@ -30,7 +30,6 @@ Bedrock EditionまたはPocket Editionの方は、IPアドレス欄に`kinoko.dd
 
 右に進むと、[Minigameサーバー](../server_list/minigame.md)に行き
 
-左に進むと、[SandBoxサーバー](../server_list/sandbox.md)に行けます。
 
 ## サーバーに参加すると...(Life鯖)
 
