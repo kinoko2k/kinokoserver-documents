@@ -346,3 +346,27 @@ sidebar_position: 10
 | 276 | 11月03日 | SS7382 | Warn | Griefing | Life |
 | 277 | 11月04日 | TRUENO13954 | TempMute-3day | 他プレイヤーのプレイ妨害 | Life |
 | 278 | 11月05日 | TAKKI_0926 | Mute | Spam | Life |
+| 279 | 11月23日 | BEsamurin1233465 | Ban | Griefing | Life |
+| 280 | 11月23日 | minarikuso | Warn | 他プレイヤーに対して、窃盗や詐欺をする行為 | Life |
+| 281 | 11月24日 | minarikuso | Warn | 他プレイヤーに対して、窃盗や詐欺をする行為 | Life |
+
+### 2023年11月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 282 | 12月03日 | KKouki0817 | TempIPBan-3day | 鯖主または運営内会議の判断によって処罰される行為 | Life |
+| 283 | 12月13日 | KKouki0817 | Warn | Spam | Life |
+| 284 | 12月19日 | BEWoolMars120720 | Warn | Griefing | Life |
+| 285 | 12月27日 | shiratama725 | Warn | Spam | Life |
+| 286 | 12月31日 | N_W_A_ | Ban | Cheat(mcpl) | Life |
+
+### 2024年01月の処罰者
+| 処罰者番号 | 日時 | MCID | 処罰種類 | 処罰理由 | サーバー名 |
+| - | - | - | - | - | - |
+| 287 | 01月01日 | dogs_sino | Warn | Griefing | Life |
+| 288 | 01月06日 | uparupa09 | Warn | サーバーに対して負荷をかけたりする行為,急激にチャンクやエンティティを増やすまたは読み込む行為 | Life |
+| 289 | 01月06日 | uparupa09 | Warn | 鯖主または運営内会議の判断によって処罰される行為 | Life |
+| 290 | 01月06日 | uparupa09 | Warn | PvPクライアントやハッククライアントまたはそれに似たものを利用する行為 | Life |
+| 291 | 01月06日 | uparupa09 | Kick | 3回目の警告 | Life |
+| 292 | 01月07日 | TAKKI_0926 | Warn | 急激にチャンクやエンティティを増やすまたは読み込む行為(14:10:54) | Life |
+| 293 | 01月07日 | TAKKI_0926 | Mute | 鯖主または運営内会議の判断によって処罰される行為 | Life |
+| 294 | 01月14日 | YUP3345 | Warn | 政治的・公序良俗に反する発言行為 | Life |

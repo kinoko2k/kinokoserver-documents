@@ -17,4 +17,5 @@ sidebar_position: 6
 | Vanilla鯖 | バニラのサバイバルが遊べるサーバー | /server vanilla | 元々予定されていたから |
 | HardCore鯖 | 一度死んだら入れなくなるサーバー | /server hardcore | 元々予定されていたから |
 | tenju831kirai鯖 | 野菜鬼畜鯖 | /server tenju831kirai | 元々予定されていたから |
+| Economy鯖 | 経済鯖 | /server economy | 経済要素の撤廃 |
 

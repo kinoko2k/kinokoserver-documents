@@ -36,7 +36,7 @@ sidebar_position: 4
 
 マイクラはない。でも詳しい。鯖主を支えるのが仕事らしい。
 
-### 《上層運営》 T_orumai
+### 《運営》 T_orumai
 
 ![T_orumai](https://minotar.net/helm/T_orumai/128.png)
 
