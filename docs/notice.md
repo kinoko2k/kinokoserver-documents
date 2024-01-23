@@ -8,6 +8,16 @@ sidebar_position: 7
 
 :::
 
+## 6月1日以降の参加申し込みは、GoogleFormまたはMailで取り扱います。
+
+### ▼Google Form（問い合わせジャンルを「6月1日以降の参加申し込み」に選択）
+- https://forms.gle/Ekzc26q1d7MBJ8v86
+
+### ▼Mail（★の部分を@に変えてください。）
+- `kinoko2knetwork★gmail.com`
+
+---
+
 ## **__<-- サーバー休止のお知らせ -->__**
 
 ### ▼概要
