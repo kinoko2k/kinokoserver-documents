@@ -13,7 +13,7 @@ KinokoServerの閉鎖に伴い、JMSとMonocraftなどの投票サイト、旧Wi
 
 旧Wikiは、一部ページを削除しますが、残る形になりますが、投票サイトは完全に非公開にするつもりです。
 
-また、近頃KinokoServerのDiscord招待権限とメイン招待リンクも停止します。<br>
+また、近頃KinokoServerのDiscord招待権限とメイン招待リンクも停止します。
 認証済みユーザまたは管理者のみが作成することができるようになります。
 
 ※Kinoko_2K曰くmcpl所属鯖主には別途で情報を提供するつもりです。
@@ -21,7 +21,8 @@ KinokoServerの閉鎖に伴い、JMSとMonocraftなどの投票サイト、旧Wi
 ---
 
 ## KinokoServerのGitHubについて
-あまりプレイヤーの方々には関係ありませんが、<br>
+あまりプレイヤーの方々には関係ありませんが、
+
 KinokoServerが運営時に使用していたGitHubのOrganizationを全て非公開にする予定です。
 
 また、GitHub Pagesで運用していたKinokoServerの公式サイトがその影響により閲覧不可になります。
@@ -45,7 +46,8 @@ Kinoko_2K氏が所持しているサーバーはそのまま存続されます�
 
 今回の変更についてのお問い合わせは、Discordのお問い合わせ、メールまたは@_pyoのDMまでお願いします。
 
-※KinokoTeamsの管理者は変わりません<br>
+※KinokoTeamsの管理者は変わりません。
+
 ※Kinoko_2K氏のDMはサーバー関連のお問い合わせは答えられません。
 
 ---
