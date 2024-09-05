@@ -2,6 +2,25 @@
 sidebar_label: 初めての方へ
 sidebar_position: 1
 ---
+:::info
+
+### KinokoNetWorkの管理者変更について
+2024年9月1日を持って、KinokoServerの管理者である、@🍄🍍🍾がKinokoNetWorkを脱退することを受け、KinokoNetWork及びKinokoServerの管理者が@_pyoに変更されます。
+
+KinokoServerについては、2024年6月1日付でサービス終了しましたが、KinokoNetWork内のレンタルサーバーも管理者変更により停止します。
+
+KinokoServer以外のサービスに全く影響はないのでご注意ください。（mcplなどのコミュニティ）
+
+Kinoko_2K氏が所持しているサーバーはそのまま存続されます。
+
+また、Kinoko_2K氏による3月以降のKinokoServerの再構築は計画されておらず、KinokoServerに代わる新しいマイクラサーバーを構築する予定です。
+
+今回の変更についてのお問い合わせは、Discordのお問い合わせ、メールまたは@_pyoのDMまでお願いします。
+
+※KinokoTeamsの管理者は変わりません<br>
+※Kinoko_2K氏のDMはサーバー関連のお問い合わせは答えられません。
+:::
+
 :::warning
 
 ## 6月1日をもって、サーバーは休止となりました。

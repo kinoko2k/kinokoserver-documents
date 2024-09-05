@@ -8,6 +8,48 @@ sidebar_position: 7
 
 :::
 
+## KinokoServerの各種URLについて
+KinokoServerの閉鎖に伴い、JMSとMonocraftなどの投票サイト、旧Wikiの公開が停止します。
+
+旧Wikiは、一部ページを削除しますが、残る形になりますが、投票サイトは完全に非公開にするつもりです。
+
+また、近頃KinokoServerのDiscord招待権限とメイン招待リンクも停止します。<br>
+認証済みユーザまたは管理者のみが作成することができるようになります。
+
+※Kinoko_2K曰くmcpl所属鯖主には別途で情報を提供するつもりです。
+
+---
+
+## KinokoServerのGitHubについて
+あまりプレイヤーの方々には関係ありませんが、<br>
+KinokoServerが運営時に使用していたGitHubのOrganizationを全て非公開にする予定です。
+
+また、GitHub Pagesで運用していたKinokoServerの公式サイトがその影響により閲覧不可になります。
+
+大体、10月までには非公開になり、閲覧不可となります。
+
+※作品は全て、KinokoNetWorkまたはKinokoTeamsの著作物となります。
+
+---
+
+## KinokoNetWorkの管理者変更について
+2024年9月1日を持って、KinokoServerの管理者である、@🍄🍍🍾がKinokoNetWorkを脱退することを受け、KinokoNetWork及びKinokoServerの管理者が@_pyoに変更されます。
+
+KinokoServerについては、2024年6月1日付でサービス終了しましたが、KinokoNetWork内のレンタルサーバーも管理者変更により停止します。
+
+KinokoServer以外のサービスに全く影響はないのでご注意ください。（mcplなどのコミュニティ）
+
+Kinoko_2K氏が所持しているサーバーはそのまま存続されます。
+
+また、Kinoko_2K氏による3月以降のKinokoServerの再構築は計画されておらず、KinokoServerに代わる新しいマイクラサーバーを構築する予定です。
+
+今回の変更についてのお問い合わせは、Discordのお問い合わせ、メールまたは@_pyoのDMまでお願いします。
+
+※KinokoTeamsの管理者は変わりません<br>
+※Kinoko_2K氏のDMはサーバー関連のお問い合わせは答えられません。
+
+---
+
 ## 6月1日をもって、サーバーは休止となりました。
 2024年6月1日をもってきのこサーバーは一部活動停止します！
 
@@ -35,6 +77,8 @@ Discordサーバーは、現在小学生の方が、13歳になり、参加で�
 ▼ X上での報告
 
 [https://x.com/kinoko1216/status/1796557355569865191](https://x.com/kinoko1216/status/1796557355569865191)
+
+---
 
 ## 6月1日以降の参加申し込みは、GoogleFormまたはMailで取り扱います。
 
