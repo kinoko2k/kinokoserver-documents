@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocuments=self.webpackChunkdocuments||[]).push([[1628],{2910:e=>{e.exports=JSON.parse('{"label":"minecraft","permalink":"/blog/tags/minecraft","allTagsPath":"/blog/tags","count":1}')}}]);

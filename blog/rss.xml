@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KinokoServer Wiki Blog</title>
+        <link>https://oldwiki.kinokoroom.net/blog</link>
+        <description>KinokoServer Wiki Blog</description>
+        <lastBuildDate>Sat, 10 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[小規模サーバーの宣伝方法]]></title>
+            <link>https://oldwiki.kinokoroom.net/blog/promotion_small</link>
+            <guid>https://oldwiki.kinokoroom.net/blog/promotion_small</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[※運営経験の話の続きです。]]></description>
+            <content:encoded><![CDATA[<p>※運営経験の話の続きです。</p><h1>サーバー作ったけど人来ない！</h1><p>サーバーを建てた最初のときは、そうなります。有名人やYoutuberや友人と作った場合以外は多分そうなります。宣伝しなければ、IPだってわからないのに、人が来るはずないんです。</p><p>マイクラサーバーに入るには、IPとポート番号(いらない場合もある)が絶対(?)に必要です。</p><p>それを知らない状態で人は来るわけないんです。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="どうやって人を集めればいいの">どうやって人を集めればいいの？<a href="#どうやって人を集めればいいの" class="hash-link" aria-label="どうやって人を集めればいいの？ への直接リンク" title="どうやって人を集めればいいの？ への直接リンク">​</a></h2><p>やっぱり宣伝ですね。Discordを作っていたなら、いろいろなサーバーへ行き、<strong>Discord宣伝</strong>として宣伝しまくる。ということで人が増えます。</p><p><strong><a href="https://minecraft.jp/" target="_blank" rel="noopener noreferrer">Minecraft.jp</a></strong>や<strong><a href="https://monocraft.net/" target="_blank" rel="noopener noreferrer">Monocraft.net</a></strong>の投票サイトを使って、宣伝する方法でも人を集められます。</p><p>ですが、<strong>Minecraft.jp</strong>はレビュー確認が必要なので、確認をし終わらないと、投票サイトが見れないです。</p><p>Game8さんの<strong>マイクラマルチ宣伝サイト</strong>があるのでそこでも宣伝できます。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="もっと運営を増やしたい">もっと運営を増やしたい！<a href="#もっと運営を増やしたい" class="hash-link" aria-label="もっと運営を増やしたい！ への直接リンク" title="もっと運営を増やしたい！ への直接リンク">​</a></h2><p>じゃあ、<strong><a href="https://mineidea.net/projects" target="_blank" rel="noopener noreferrer">MineIdea</a></strong>を使いましょう！プロジェクトを作成して、自分のサーバーを載せれば、運営参加してくれる人が見つかるはずです！</p><p>もちろん宣伝にもなるはずです！</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="人が減らないように気をつけること">人が減らないように気をつけること<a href="#人が減らないように気をつけること" class="hash-link" aria-label="人が減らないように気をつけること への直接リンク" title="人が減らないように気をつけること への直接リンク">​</a></h2><ul><li><p>余計のことはしない</p></li><li><p>処罰制度はしっかりする</p></li><li><p>運営の立場に立って運営する</p></li></ul><p>など…いろいろ考えてないと、ヘイトや批判が集まって、人が来なくなります…</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="最後に">最後に<a href="#最後に" class="hash-link" aria-label="最後に への直接リンク" title="最後に への直接リンク">​</a></h2><p>人を集めたら規模は大きくなりますが、問題も多くなることが多いです。気をつけましょう！</p><p>ハートよろしく！質問などは、<a href="https://discord.gg/VdzXx892Zq" target="_blank" rel="noopener noreferrer">Discord</a>へ</p>]]></content:encoded>
+            <category>minecraft</category>
+            <category>promotion</category>
+        </item>
+        <item>
+            <title><![CDATA[こんにちは]]></title>
+            <link>https://oldwiki.kinokoroom.net/blog/hello_world</link>
+            <guid>https://oldwiki.kinokoroom.net/blog/hello_world</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello World!]]></description>
+            <content:encoded><![CDATA[<p>Hello World!</p><p>このサイトは、鯖主のブログまたは開発メモとして使われます。</p><p>詳しくは、<a href="https://discord.gg/VdzXx892Zq" target="_blank" rel="noopener noreferrer">KinokoNetWork公式Discord鯖</a>にて</p>]]></content:encoded>
+            <category>hello</category>
+            <category>tutorial</category>
+        </item>
+        <item>
+            <title><![CDATA[MDX Blog Post]]></title>
+            <link>https://oldwiki.kinokoroom.net/blog/mdx-blog-post</link>
+            <guid>https://oldwiki.kinokoroom.net/blog/mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
+            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>ヒント</div><div class="admonitionContent_S0QG"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content:encoded>
+            <category>docusaurus</category>
+        </item>
+        <item>
+            <title><![CDATA[Long Blog Post]]></title>
+            <link>https://oldwiki.kinokoroom.net/blog/long-blog-post</link>
+            <guid>https://oldwiki.kinokoroom.net/blog/long-blog-post</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the summary of a very long blog post,]]></description>
+            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://oldwiki.kinokoroom.net/blog/first-blog-post</link>
+            <guid>https://oldwiki.kinokoroom.net/blog/first-blog-post</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
