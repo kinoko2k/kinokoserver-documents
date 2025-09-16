@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'KinokoNetWork', // Usually your GitHub org/user name.
-  projectName: 'KinokoServer', // Usually your repo name.
+  organizationName: 'kinoko2k', // Usually your GitHub org/user name.
+  projectName: 'kinokoserver-documents', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          'https://github.com/KinokoServer/documents/edit/main/',
+          'https://github.com/kinoko2k/kinokoserver-documents/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          'https://github.com/KinokoServer/documents/edit/main/',
+          'https://github.com/kinoko2k/kinokoserver-documents/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
